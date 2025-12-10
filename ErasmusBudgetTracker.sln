@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErasmusBudgetTracker", "ErasmusBudgetTracker\ErasmusBudgetTracker.csproj", "{683F566F-3067-479E-8173-E8546941C7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveSystemFramework_v2", "..\SaveSystemFramework_v2\SaveSystemFramework_v2\SaveSystemFramework_v2.csproj", "{D457A2DC-FF53-39A5-A98C-ED901E80B0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683F566F-3067-479E-8173-E8546941C7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683F566F-3067-479E-8173-E8546941C7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683F566F-3067-479E-8173-E8546941C7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683F566F-3067-479E-8173-E8546941C7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D457A2DC-FF53-39A5-A98C-ED901E80B0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D457A2DC-FF53-39A5-A98C-ED901E80B0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D457A2DC-FF53-39A5-A98C-ED901E80B0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D457A2DC-FF53-39A5-A98C-ED901E80B0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3661FD53-6B00-4137-8CB5-ED821D52E28E}
+	EndGlobalSection
+EndGlobal
